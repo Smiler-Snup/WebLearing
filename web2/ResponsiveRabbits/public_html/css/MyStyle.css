@@ -1,0 +1,61 @@
+#header
+{
+        color:pink;
+	font-size:26pt;
+	font-weight:bold;
+	text-align:center;
+	line-height: 2.5;
+}
+
+#introduction_img
+{
+	color:red;
+	font-size:16pt;
+}
+
+.Myimg
+{
+	float:left;
+	width:250px;
+	height:400px;
+	margin-right: 35px;
+	font-size:14pt;
+}
+
+.introduction
+{
+	font-size:14pt;
+}
+
+BODY 
+{
+	background-color: #445566;
+}
+
+HR
+{
+	text-align:center;
+	font-size:5pt;
+	color:white;
+}
+
+.bold_text
+{
+	font-weight:bold;
+	font-size:20pt;
+}
+
+#under_italic_text
+{
+        text-decoration: underline;
+	font-style:italic;
+	font-size:15pt;
+}
+
+LI
+{
+	list-style-type:squre;
+	font-size:14pt;
+	color:black;
+	line-height: 1.4;
+}

@@ -1,0 +1,97 @@
+#Header
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20pt;
+}
+#Header_menu
+{
+    text-align: left;
+    font-weight: bold;
+    font-size: 12pt;
+}
+.join_style
+{
+    text-align: center;
+    font-size: 16pt;
+}
+.mistakes
+{
+    color:red;
+    position: absolute;
+    font-size: 13pt;
+}
+body 
+{
+  background-size: 50px 50px;
+background-color: #80461B;
+background-image: -webkit-linear-gradient(rgba(255, 255, 255, .2) 50%, transparent 50%, transparent);
+background-image: -moz-linear-gradient(rgba(255, 255, 255, .2) 50%, transparent 50%, transparent);
+background-image: linear-gradient(rgba(255, 255, 255, .2) 50%, transparent 50%, transparent);
+}
+.button16
+{
+  align-items: center;
+  background: #273439;
+  border: 0;
+  border-radius: 15px;
+  cursor: pointer;
+  color: #fff;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 20px;
+  font-weight: 200;
+  height: 60px;
+  justify-content: center;
+  transition: background 300ms, opacity 500ms 800ms;
+  width: 280px;
+  outline:none;
+}
+.button16:hover {
+  background: #0e232e;
+}
+.input_my
+{
+    border:0;
+    width: 140px;
+    height: 25px;
+    border-radius: 10px;
+    outline:none;
+}
+.input_my:focus {
+  background: #D0D0D0;
+}
+.result
+{
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+    font-size:18pt;
+    min-width: 1024px;
+}
+#form_number
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 60pt;
+}
+.button_game
+{
+  min-width: 1024px;
+  min-height: 1024px;
+  font-size: 16pt;
+  position: absolute;
+  margin-top:700px;
+  margin-left: 520px;
+} 
+#Advice
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20pt;
+}
+#true_false
+{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20pt;
+}

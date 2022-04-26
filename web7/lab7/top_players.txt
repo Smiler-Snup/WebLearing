@@ -1,0 +1,10 @@
+admin 5401
+Gena 307
+Dan 299
+Arrra 211
+wredirik 205
+Ben 172
+Rose 150
+Xrum 106
+IRA 1
+None 0
